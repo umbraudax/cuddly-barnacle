@@ -6,11 +6,10 @@
 #define GITTUT_TESTCLASS_H
 
 
-
 class TestClass {
-
+public:
+    int testInt;
 };
-
 
 
 #endif //GITTUT_TESTCLASS_H
